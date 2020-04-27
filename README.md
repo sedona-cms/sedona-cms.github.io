@@ -7,3 +7,7 @@ It can help:
 1. add admin panel to a nuxt site frontend
 2. editing content via blocks system
 3. inline editing content in marked zones
+
+## Demo
+
+* [Core](https://sedona-cms.github.io/core/)
