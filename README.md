@@ -11,3 +11,4 @@ It can help:
 ## Demo
 
 * [Core](https://sedona-cms.github.io/core/)
+* [Blocks](https://sedona-cms.github.io/blocks/?loggedIn=true)
