@@ -1,6 +1,14 @@
 # Sedona CMS
 
-Content Managment System for Nuxt.js projects. 
+Sedona CMS is several projects that give you the flexibility to manage the content of your site.
+
+## Core
+
+[Demo](https://sedona-cms.github.io/core/)
+
+## Blocks
+
+[Demo](https://sedona-cms.github.io/blocks/?loggedIn=true)
 
 It can help:
 
@@ -8,7 +16,3 @@ It can help:
 2. editing content via blocks system
 3. inline editing content in marked zones
 
-## Demo
-
-* [Core](https://sedona-cms.github.io/core/)
-* [Blocks](https://sedona-cms.github.io/blocks/?loggedIn=true)
